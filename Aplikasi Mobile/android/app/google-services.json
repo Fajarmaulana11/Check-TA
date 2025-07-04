@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "856252653498",
+    "firebase_url": "https://sistemparkir-cc7d8-default-rtdb.firebaseio.com",
+    "project_id": "sistemparkir-cc7d8",
+    "storage_bucket": "sistemparkir-cc7d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856252653498:android:588d0c0b82858243548783",
+        "android_client_info": {
+          "package_name": "com.example.siparkir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Rk4TT8FR3662n7TpPYiES53fRpuvx-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
